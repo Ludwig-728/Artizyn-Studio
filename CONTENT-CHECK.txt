@@ -1,0 +1,17 @@
+ARTIZYN SOURCE CONTENT CHECK
+Source: https://shark-hxp7ny.my.canva.site/artizyn/
+
+Whitespace, manual line wraps and duplicate responsive copies are normalised.
+Canva platform controls and playback counters are excluded.
+
+index.html: checked 18 source phrases
+about.html: checked 30 source phrases
+team.html: checked 17 source phrases
+faqs.html: checked 37 source phrases
+contact.html: checked 13 source phrases
+commercial.html: checked 16 source phrases
+residential.html: checked 18 source phrases
+interiors.html: checked 18 source phrases
+
+Total: 167 source phrases checked.
+Missing or changed source phrases: 0.
